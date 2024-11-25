@@ -60,10 +60,10 @@ int main() {
   ld y_begin = 0;
   ld x_side_begin = 3.2;
   ld y_side_begin = 3.2;
-  ld x_final = 0.8;
-  ld y_final = 0.8;
-  ld x_side_final = 1.2;
-  ld y_side_final = 1.2;
+  ld x_final = 0.9;
+  ld y_final = 0.9;
+  ld x_side_final = 1.1;
+  ld y_side_final = 1.1;
 
   std::ofstream ofs("result.txt");
   std::ofstream ofs2("related-result.txt");
