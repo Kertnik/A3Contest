@@ -48,7 +48,7 @@ def plot_surface(xi, yi, zi):
 
 
 # Path to your txt file
-file_path = 'accur.txt'
+file_path = 'related-result.txt'
 
 # Load and process data
 points = load_data(file_path)
